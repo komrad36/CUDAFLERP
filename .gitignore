@@ -1,0 +1,7 @@
+*
+!.gitignore
+!CUDAFLERP.h
+!CUDAFLERP.cu
+!Makefile
+!main.cpp
+!README.md
